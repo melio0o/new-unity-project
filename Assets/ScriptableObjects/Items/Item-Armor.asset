@@ -9,12 +9,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3187ceebb94c8894f84ea0997442f672, type: 3}
-  m_Name: Item - Armor
+  m_Script: {fileID: 11500000, guid: 72d06bb809f6e844ea0950fc558d9e16, type: 3}
+  m_Name: Item-Armor
   m_EditorClassIdentifier: 
-  Prefab: {fileID: 0}
-  ItemImage: {fileID: 0}
-  ItemPrice: 0
-  ItemName: 50
-  ItemType: 1
-  ItemState: 1
+  itemPrefab: {fileID: 0}
+  itemImage: {fileID: 21300000, guid: a67dcd548e2cfcc40b0c865c7461e835, type: 3}
+  itemPrice: 50
+  itemName: Incredible Armor
+  itemType: 1
+  itemState: 0
